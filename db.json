@@ -71,18 +71,25 @@
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "titulo": "Stack Overflow e a Aplicação Web Monolítica de alta performance (Alura Cases)",
+      "descricao": "2,1 mil visualizações",
+      "url": "https://www.youtube.com/embed/yGpps0PISzQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "titulo": " As 9 Softskills mais desejadas pelas empresas #AluraMais",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/imTUTl2sCW4",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": " Dark Patterns #AluraMais ",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/GswlRSFC8x8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
     }
   ]
 }
